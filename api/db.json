@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "new",
+      "description": "max",
+      "userId": "109405278939308079747",
+      "id": 1
+    },
+    {
+      "title": "test",
+      "description": "asdasd",
+      "userId": "109405278939308079747",
+      "id": 2
+    },
+    {
+      "title": "asda",
+      "description": "adasd",
+      "userId": "109405278939308079747",
+      "id": 3
+    }
+  ]
+}
